@@ -1,0 +1,85 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.form-container{
+    display:flex;
+    flex-direction: column;
+    border: 2px solid black;
+    height: 600px;
+    width: 60rem;
+    margin-left: 25%;
+    align-items: center;
+    margin-top: 4vw;
+    border: 3px solid rgb(11, 10, 10);
+    border-radius: 30px;
+}
+
+
+form label{
+    font-size: xx-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 10px;
+}
+
+
+.input-feild1{
+    font-size: 5vh;
+    margin-top: 30px;
+    margin-left: 20px;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+
+.input-feild2{
+    font-size: 5vh;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+
+.input-feild3{
+    font-size: 5vh;
+    margin-left: 34px;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+
+.input-feild4{
+
+    margin-left: 20px;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+
+
+.input-chk{
+    width: 30px;
+    height: 20px;
+}
+
+#browsers{
+    font-size: x-large;
+    margin: 30px;
+
+}
+
+form{
+    width: auto;
+    padding: 20px;
+
+}
+
+
+button{
+    font-size: xx-large;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-left: 40%;
+    cursor: pointer;
+}
